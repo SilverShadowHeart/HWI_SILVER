@@ -1,4 +1,4 @@
-# SILVER Authentication
+# SILVER OAUTH
 
 ![Project Demo](https://storage.googleapis.com/aistudio-o-images/project_screenshots/silver-auth-demo.gif)
 
