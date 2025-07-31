@@ -115,9 +115,8 @@ Your app should now be running at `http://localhost:5173`.
 
 ## 🖼️ UI Preview Gallery
 
-| Login animation(dark) | | Login View(light) | Login View(dark)  | OAuth Success (light) | | OAuth Success (dark) |
-|------------|----------------|-------------|---------------------|---------------------|---------------------|
-| ![Login-animated](demo-screenshots/1.png) | ![dark-main](demo-screenshots/5.png) | ![light-main](demo-screenshots/3.png) ![Sucess](demo-screenshots/4.png)![Sucess](demo-screenshots/5.png)|
+
+ ![Login-animated](demo-screenshots/1.png)  ![dark-main](demo-screenshots/5.png) ![light-main](demo-screenshots/3.png) ![Sucess](demo-screenshots/4.png)![Sucess](demo-screenshots/5.png)
 
 ---
 
